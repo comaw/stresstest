@@ -9,6 +9,7 @@
 
 # User-specific stuff
 .idea
+/*.txt
 
 # CMake
 cmake-build-*/

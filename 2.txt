@@ -1,0 +1,119 @@
+Finished, streams: 50
+0 -> Iteration: 10 | Average Time: 3.638042 | Max Time: 6.415892 | Min Time: 2.583843 | Count of http errors: 0
+1 -> Iteration: 10 | Average Time: 3.578759 | Max Time: 6.407940 | Min Time: 2.665106 | Count of http errors: 0
+2 -> Iteration: 10 | Average Time: 3.459181 | Max Time: 6.334308 | Min Time: 2.801246 | Count of http errors: 0
+3 -> Iteration: 10 | Average Time: 3.495753 | Max Time: 5.637711 | Min Time: 2.394760 | Count of http errors: 0
+4 -> Iteration: 10 | Average Time: 3.487907 | Max Time: 6.196253 | Min Time: 2.817328 | Count of http errors: 0
+5 -> Iteration: 10 | Average Time: 3.618812 | Max Time: 5.714714 | Min Time: 1.980443 | Count of http errors: 0
+
+Finished, streams: 60
+0 -> Iteration: 10 | Average Time: 3.768713 | Max Time: 4.513380 | Min Time: 2.926182 | Count of http errors: 0
+1 -> Iteration: 10 | Average Time: 3.678131 | Max Time: 4.371475 | Min Time: 3.199145 | Count of http errors: 0
+2 -> Iteration: 10 | Average Time: 3.821161 | Max Time: 4.634191 | Min Time: 2.644758 | Count of http errors: 0
+3 -> Iteration: 10 | Average Time: 3.794316 | Max Time: 4.530559 | Min Time: 2.869918 | Count of http errors: 0
+4 -> Iteration: 10 | Average Time: 3.597726 | Max Time: 4.277199 | Min Time: 2.759643 | Count of http errors: 0
+5 -> Iteration: 10 | Average Time: 3.731066 | Max Time: 4.135864 | Min Time: 3.009519 | Count of http errors: 0
+
+Finished, streams: 70
+0 -> Iteration: 5 | Average Time: 4.523994 | Max Time: 5.894006 | Min Time: 3.101793 | Count of http errors: 0
+1 -> Iteration: 5 | Average Time: 4.536555 | Max Time: 5.704452 | Min Time: 3.037243 | Count of http errors: 0
+2 -> Iteration: 5 | Average Time: 4.541839 | Max Time: 5.531274 | Min Time: 2.692693 | Count of http errors: 0
+3 -> Iteration: 5 | Average Time: 4.496000 | Max Time: 4.971595 | Min Time: 3.778232 | Count of http errors: 0
+4 -> Iteration: 5 | Average Time: 4.316893 | Max Time: 5.551744 | Min Time: 2.646569 | Count of http errors: 0
+
+Finished, streams: 80
+0 -> Iteration: 5 | Average Time: 4.666891 | Max Time: 6.283532 | Min Time: 2.552621 | Count of http errors: 0
+1 -> Iteration: 5 | Average Time: 4.941947 | Max Time: 5.768162 | Min Time: 4.179097 | Count of http errors: 0
+2 -> Iteration: 5 | Average Time: 4.540682 | Max Time: 5.491519 | Min Time: 3.100156 | Count of http errors: 0
+3 -> Iteration: 5 | Average Time: 5.154331 | Max Time: 5.690571 | Min Time: 4.007403 | Count of http errors: 0
+4 -> Iteration: 5 | Average Time: 5.188714 | Max Time: 6.772009 | Min Time: 3.591478 | Count of http errors: 0
+
+Finished, streams: 90
+0 -> Iteration: 5 | Average Time: 5.790283 | Max Time: 7.842639 | Min Time: 4.126375 | Count of http errors: 0
+1 -> Iteration: 5 | Average Time: 5.586764 | Max Time: 5.916829 | Min Time: 5.286254 | Count of http errors: 0
+2 -> Iteration: 5 | Average Time: 5.519147 | Max Time: 6.769091 | Min Time: 4.335078 | Count of http errors: 0
+3 -> Iteration: 5 | Average Time: 5.317212 | Max Time: 6.468034 | Min Time: 3.062081 | Count of http errors: 0
+4 -> Iteration: 5 | Average Time: 5.791090 | Max Time: 7.726556 | Min Time: 4.351149 | Count of http errors: 0
+
+Finished, streams: 100
+0 -> Iteration: 5 | Average Time: 5.564849 | Max Time: 6.583057 | Min Time: 4.179718 | Count of http errors: 0
+1 -> Iteration: 5 | Average Time: 6.370576 | Max Time: 8.052558 | Min Time: 4.239062 | Count of http errors: 0
+2 -> Iteration: 5 | Average Time: 6.342197 | Max Time: 7.813855 | Min Time: 5.312270 | Count of http errors: 0
+3 -> Iteration: 5 | Average Time: 5.855246 | Max Time: 7.655176 | Min Time: 3.712309 | Count of http errors: 0
+
+Finished, streams: 120
+0 -> Iteration: 5 | Average Time: 7.559600 | Max Time: 10.273838 | Min Time: 5.630090 | Count of http errors: 0
+1 -> Iteration: 5 | Average Time: 7.623220 | Max Time: 9.380084 | Min Time: 3.658415 | Count of http errors: 0
+2 -> Iteration: 5 | Average Time: 6.622090 | Max Time: 8.302478 | Min Time: 5.522338 | Count of http errors: 0
+3 -> Iteration: 5 | Average Time: 6.994112 | Max Time: 9.092687 | Min Time: 4.341395 | Count of http errors: 0
+4 -> Iteration: 5 | Average Time: 7.270584 | Max Time: 7.909796 | Min Time: 6.495111 | Count of http errors: 0
+
+Finished, streams: 140
+0 -> Iteration: 5 | Average Time: 7.983578 | Max Time: 12.120329 | Min Time: 2.875615 | Count of http errors: 0
+1 -> Iteration: 5 | Average Time: 10.201128 | Max Time: 16.154387 | Min Time: 7.979888 | Count of http errors: 0
+2 -> Iteration: 5 | Average Time: 10.347112 | Max Time: 14.565197 | Min Time: 5.554720 | Count of http errors: 0
+3 -> Iteration: 5 | Average Time: 10.253393 | Max Time: 17.009461 | Min Time: 7.637739 | Count of http errors: 0
+4 -> Iteration: 5 | Average Time: 10.051909 | Max Time: 14.615214 | Min Time: 7.565219 | Count of http errors: 0
+
+Finished, streams: 150
+0 -> Iteration: 5 | Average Time: 8.295632 | Max Time: 10.490286 | Min Time: 4.694298 | Count of http errors: 0
+1 -> Iteration: 5 | Average Time: 8.023920 | Max Time: 9.798297 | Min Time: 6.955182 | Count of http errors: 0
+2 -> Iteration: 5 | Average Time: 7.450151 | Max Time: 9.704045 | Min Time: 5.401321 | Count of http errors: 0
+3 -> Iteration: 5 | Average Time: 7.474874 | Max Time: 10.393788 | Min Time: 4.647717 | Count of http errors: 0
+4 -> Iteration: 5 | Average Time: 7.773503 | Max Time: 10.064786 | Min Time: 2.724311 | Count of http errors: 0
+
+Finished, streams: 160
+0 -> Iteration: 5 | Average Time: 9.110750 | Max Time: 11.603895 | Min Time: 6.443773 | Count of http errors: 0
+1 -> Iteration: 5 | Average Time: 9.228139 | Max Time: 10.163594 | Min Time: 6.860163 | Count of http errors: 0
+2 -> Iteration: 5 | Average Time: 8.405356 | Max Time: 10.159645 | Min Time: 4.544651 | Count of http errors: 0
+3 -> Iteration: 5 | Average Time: 8.048823 | Max Time: 8.929565 | Min Time: 5.554825 | Count of http errors: 0
+4 -> Iteration: 5 | Average Time: 9.279036 | Max Time: 12.146214 | Min Time: 6.153964 | Count of http errors: 0
+
+
+Finished, streams: 180
+0 -> Iteration: 5 | Average Time: 0.709074 | Max Time: 3.070165 | Min Time: 0.116188 | Count of http errors: 0
+1 -> Iteration: 5 | Average Time: 8.873028 | Max Time: 13.256472 | Min Time: 2.093613 | Count of http errors: 0
+2 -> Iteration: 5 | Average Time: 9.366771 | Max Time: 11.345825 | Min Time: 7.915373 | Count of http errors: 0
+3 -> Iteration: 5 | Average Time: 8.651183 | Max Time: 13.437680 | Min Time: 2.206943 | Count of http errors: 0
+4 -> Iteration: 5 | Average Time: 9.071516 | Max Time: 13.331277 | Min Time: 4.161508 | Count of http errors: 0
+5 -> Iteration: 5 | Average Time: 0.656042 | Max Time: 2.820079 | Min Time: 0.113166 | Count of http errors: 0
+
+Finished, streams: 200
+0 -> Iteration: 5 | Average Time: 9.660940 | Max Time: 13.249277 | Min Time: 5.065678 | Count of http errors: 0
+1 -> Iteration: 5 | Average Time: 9.104730 | Max Time: 16.649886 | Min Time: 0.121854 | Count of http errors: 0
+2 -> Iteration: 5 | Average Time: 9.161435 | Max Time: 11.917791 | Min Time: 5.733474 | Count of http errors: 0
+3 -> Iteration: 5 | Average Time: 9.653636 | Max Time: 11.235961 | Min Time: 8.006305 | Count of http errors: 0
+4 -> Iteration: 5 | Average Time: 9.878150 | Max Time: 13.758930 | Min Time: 0.224709 | Count of http errors: 0
+
+Finished, streams: 250
+0 -> Iteration: 5 | Average Time: 9.648793 | Max Time: 16.102025 | Min Time: 0.118529 | Count of http errors: 0
+1 -> Iteration: 5 | Average Time: 7.052211 | Max Time: 16.544829 | Min Time: 0.113558 | Count of http errors: 0
+2 -> Iteration: 5 | Average Time: 11.026909 | Max Time: 15.275437 | Min Time: 8.918560 | Count of http errors: 0
+3 -> Iteration: 5 | Average Time: 7.404932 | Max Time: 17.340203 | Min Time: 0.117299 | Count of http errors: 0
+4 -> Iteration: 5 | Average Time: 11.256366 | Max Time: 15.329141 | Min Time: 4.619497 | Count of http errors: 0
+5 -> Iteration: 5 | Average Time: 7.502247 | Max Time: 15.442276 | Min Time: 0.116571 | Count of http errors: 0
+
+Finished, streams: 280
+0 -> Iteration: 5 | Average Time: 10.450338 | Max Time: 15.783259 | Min Time: 0.116656 | Count of http errors: 0
+1 -> Iteration: 5 | Average Time: 8.070803 | Max Time: 14.774853 | Min Time: 0.116169 | Count of http errors: 0
+2 -> Iteration: 5 | Average Time: 11.733459 | Max Time: 15.258673 | Min Time: 7.223672 | Count of http errors: 0
+3 -> Iteration: 5 | Average Time: 10.989900 | Max Time: 17.750722 | Min Time: 0.117517 | Count of http errors: 0
+4 -> Iteration: 5 | Average Time: 6.413851 | Max Time: 14.806890 | Min Time: 0.115158 | Count of http errors: 0
+5 -> Iteration: 5 | Average Time: 11.737703 | Max Time: 16.779302 | Min Time: 4.901794 | Count of http errors: 0
+
+Finished, streams: 300
+0 -> Iteration: 5 | Average Time: 1.212272 | Max Time: 5.593050 | Min Time: 0.115647 | Count of http errors: 0
+1 -> Iteration: 5 | Average Time: 11.599708 | Max Time: 18.696609 | Min Time: 3.242105 | Count of http errors: 0
+2 -> Iteration: 5 | Average Time: 11.986953 | Max Time: 14.225991 | Min Time: 7.759995 | Count of http errors: 0
+3 -> Iteration: 5 | Average Time: 5.073244 | Max Time: 10.253468 | Min Time: 0.116232 | Count of http errors: 0
+4 -> Iteration: 5 | Average Time: 4.217376 | Max Time: 10.761406 | Min Time: 0.114854 | Count of http errors: 0
+5 -> Iteration: 5 | Average Time: 11.295638 | Max Time: 16.095243 | Min Time: 3.439567 | Count of http errors: 0
+
+Finished, streams: 400
+0 -> Iteration: 5 | Average Time: 7.055691 | Max Time: 12.039787 | Min Time: 0.118506 | Count of http errors: 0
+1 -> Iteration: 5 | Average Time: 10.339021 | Max Time: 14.078676 | Min Time: 6.890430 | Count of http errors: 0
+2 -> Iteration: 5 | Average Time: 10.306672 | Max Time: 14.717789 | Min Time: 6.734424 | Count of http errors: 0
+3 -> Iteration: 5 | Average Time: 10.509522 | Max Time: 16.020938 | Min Time: 5.324526 | Count of http errors: 0
+4 -> Iteration: 5 | Average Time: 10.296819 | Max Time: 17.381506 | Min Time: 5.315219 | Count of http errors: 0
+5 -> Iteration: 5 | Average Time: 9.190704 | Max Time: 14.067279 | Min Time: 0.113215 | Count of http errors: 0
+
